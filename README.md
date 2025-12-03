@@ -41,3 +41,10 @@ src/
  │   └── Summary.tsx
  └── lib/
      └── puter.ts       # Puter.js store hook
+```
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
